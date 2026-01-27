@@ -1,0 +1,1 @@
+This is a playwright Test automation base proyect code in Typescript
