@@ -1,1 +1,1 @@
-This is a playwright Test automation base proyect code in Typescript
+This is a playwright Test automation base proyect code in Typescript with cucumber implemented.
